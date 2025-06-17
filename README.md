@@ -128,6 +128,25 @@ npm start
 
 <hr>
 
+---
+
+## 📷 Project Screenshots
+
+### 🏠 Home Page
+
+![Home Page](screenshots/home.png)
+
+### 🔐 Login Page
+
+![Login Page](screenshots/login.png)
+
+### 📩 Apply Success Page
+
+![Applied](screenshots/applied.png)
+
+---
+
+
 <h2>📌 Credits</h2>
 <p>Created with ❤️ by <strong>[Pravin Rahangdale].</p>
 
