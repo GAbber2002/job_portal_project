@@ -20,7 +20,7 @@
 
 <h3>📁 1. Clone and Setup Project</h3>
 <pre><code># Clone the repo
-git clone https://github.com/your-username/job-portal-project.git
+git clone https://github.com/GAbber2002/job-portal.git
 cd job-portal-project
 </code></pre>
 
