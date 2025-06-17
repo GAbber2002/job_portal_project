@@ -129,6 +129,6 @@ npm start
 <hr>
 
 <h2>📌 Credits</h2>
-<p>Created with ❤️ by <strong>[Your Name]</strong> for learning purposes / portfolio / internship submission.</p>
+<p>Created with ❤️ by <strong>[Pravin Rahangdale].</p>
 
 
