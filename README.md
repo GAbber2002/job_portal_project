@@ -137,15 +137,21 @@ npm start
 
 <img src="frontend/images/homepage.png" >
 
+### 🔐 Ragister Page
+
+<img src="frontend/images/ragisterpage.png" >
+
 ### 🔐 Login Page
 
-![Login Page](screenshots/login.png)
+<img src="frontend/images/logingpage.png" >
 
-### 📩 Apply Success Page
+### 🔐 Jobs Page
 
-![Applied](screenshots/applied.png)
+<img src="frontend/images/jobspage.png" >
 
----
+### 🔐 Post Jobs Page
+
+<img src="frontend/images/jobpostpage.png" >
 
 
 <h2>📌 Credits</h2>
