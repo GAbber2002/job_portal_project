@@ -134,7 +134,8 @@ npm start
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/home.png)
+
+<img src="frontend/images/homepage.png" >
 
 ### 🔐 Login Page
 
