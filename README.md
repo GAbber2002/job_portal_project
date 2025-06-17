@@ -27,11 +27,11 @@ cd job-portal-project
 <h3>📦 2. Backend Setup (inside /backend)</h3>
 <pre><code>npm install
 # Create a .env file with the following:
-PORT=3000
-DB_HOST=your_railway_mysql_host
-DB_USER=your_user
-DB_PASSWORD=your_password
-DB_NAME=your_db_name
+PORT=8080
+DB_HOST=yamabiko.proxy.rlwy.net
+DB_USER=root
+DB_PASSWORD=your_actual_password_here
+DB_NAME=railway
 
 # Start server
 npm start
@@ -50,8 +50,8 @@ npm start
 
 <h2>🔗 Important URLs</h2>
 <ul>
-  <li><strong>Backend API</strong>: <code>https://job-portal-production-XXXX.up.railway.app</code></li>
-  <li><strong>Frontend Live</strong>: <code>https://your-job-portal-name.netlify.app</code></li>
+  <li><strong>Backend API</strong>: <code>https://job-portal-production-7c19.up.railway.app</code></li>
+  <li><strong>Frontend Live</strong>: <code>https://glistening-starship-a3a03b.netlify.app</code></li>
 </ul>
 
 <hr>
